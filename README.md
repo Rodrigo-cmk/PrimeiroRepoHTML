@@ -1,2 +1,5 @@
-# PrimeiroRepoHTML
-Replica de página em HTML.
+# _PrimeiroRepoHTML_
+
+## Replica de página em HTML.
+
+![Imagem a ser replicada.](carro.png)
